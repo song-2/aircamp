@@ -1,0 +1,96 @@
+.thumbnail img{
+   height: 100%;
+   width: 100%;
+}
+
+.thumbnail{
+    padding:0;
+    background-color:rgba(227, 209, 209, .8);
+}
+
+.well{
+   background-color:rgba(227, 209, 209, .8); 
+}
+
+.thumbnail .caption-full{
+    padding: 10px;
+}
+
+.delete-form{
+    display:inline;
+}
+
+body, html {
+    height: 100%;
+    background-image: url("http://data.freehdw.com/landscapes-mountains-camping-people-sky-clouds-trees-shore-free-background.jpg"); 
+}
+
+.jumbotron {
+    background-color:rgba(227, 209, 209, .7);
+    text-align: center;
+}
+
+.btn-primary{
+    background-color: rgba(89, 54, 54, .8);
+    border-color: rgba(84, 50, 50, .8);
+}
+
+.btn-primary:hover{
+   background-color: rgba(84, 50, 50, .8);
+   border-color: rgba(84, 50, 50, .8); 
+}
+
+.btn-warning{
+ background-color: rgba(195, 176, 9, .8);
+ border-color: rgba(167, 150, 9, .8);   
+}
+
+.btn-success{
+  background-color: rgba(96, 143, 104, .8);
+  border-color: rgba(82, 125, 90, 1);  
+}
+
+.btn-success:hover{
+  background-color: rgba(82, 125, 90, .8);
+  border-color: rgba(82, 125, 90, 1);  
+}
+
+.navbar-default{
+    background-color:rgba(226, 219, 211, 1);
+    border-color: #cbc9cc;
+    
+}
+
+h4 a{
+    color: rgba(84, 50, 50, 1);
+}
+
+.list-group-item.active{
+   background-color: rgba(89, 54, 54, .8);
+   border-color: rgba(84, 50, 50, .8);
+}
+
+.list-group-item.active:hover{
+   background-color: rgba(84, 50, 50, .8);
+   border-color: rgba(84, 50, 50, .8);
+}
+
+.form-control{
+    border: #cbc9cc;
+}
+.form-control:hover{
+    border: rgba(84, 50, 50, 1);
+}
+.arrow{
+    font-size: large;
+    color:rgba(226, 219, 211, 1);
+    background-color: rgba(84, 50, 50, .7);
+}
+
+.img-responsive{
+  width: 100%;
+  height: 100%;
+}
+
+
+
